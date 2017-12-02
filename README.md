@@ -1,2 +1,3 @@
-# jingjingfu.github.io
-My Blog
+# Welcome
+
+This is my blog.
